@@ -4,6 +4,7 @@
 **Initial Mock-up:** https://www.figma.com/file/v9FxaLojjlpsP3e3gX0Lrp/TuneIn?type=design&mode=design&t=NFxfiYEdf3u6NEev-1
 
 **Project Overview**
+
 TuneIn is a cutting-edge music discovery application tailored for those with a passion for sharing and exploring new songs, inspired by the app BeReal. It's not just about personal music tastes, but also about delving deeper into the vast realm of music. Engage with friends, leave comments, and spark real-world music discussions, all through TuneIn.
 
 **Key Features**
