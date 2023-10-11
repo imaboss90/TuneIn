@@ -15,12 +15,15 @@ TuneIn is a cutting-edge music discovery application tailored for those with a p
 - Sign Out Screen: Always double-checking to ensure you really want to log out.
 
 **Design Philosophy**
+
 Simplicity meets elegance. Taking cues from giants like Instagram and BeReal, the UI is sculpted to be straightforward and familiar. A harmonious color palette further elevates the user experience.
 
 **Achievements and Goals**
+
 Beginning as novices in React Native, Firebase, and APIs, our maiden goal was a functional home screen. However, our swift progress led to ambitions of Firebase-backed authentication and Spotify API synergy. The mission? A smooth-sailing user journey, especially for those used to similar platforms.
 
 **Inspirations**
+
 BeReal's spontaneous photo-sharing ethos lit the spark. The dream? An app dedicated to music. The design DNA? A mix of Instagram and Facebook, cherry-picking their finest to birth TuneIn's identity.
 
 **Technologies Used**
